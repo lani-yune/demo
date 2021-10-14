@@ -1,9 +1,5 @@
-# Demo Project README
+# Heading 1
 
-This is a simple README file
+## Heading 2
 
-Updating README file here
-
-Modifying file again here
-
-Updating on another branch
+Updates written here
